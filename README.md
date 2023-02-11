@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fidan1243&show_icons=true&theme=radical" alt="fidan1243" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fidan1243&" alt="fidan1243" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="fidan1243" /></p>
